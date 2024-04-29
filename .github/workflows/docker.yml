@@ -22,3 +22,4 @@ jobs:
       - name: Laravel Authentication Image Push
         run: |
           docker push mahmouddabbous/Laravel-auth
+          
